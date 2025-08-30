@@ -43,7 +43,7 @@ This flowchart illustrates the transformation:
 Below is a sample mockup of a PowerApps mobile screen designed for compliance tracking.  
 The interface includes fields for Task Name, Assigned To, Due Date, and Status — with a simple Submit button.  
 
-![Compliance Workflow Mockup](compliance_workflow_mockup.png)  
+![Compliance Workflow Mockup](Compliance_Workflow_Mockup.png)  
 
 ---
 
